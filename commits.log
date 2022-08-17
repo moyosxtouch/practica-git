@@ -1,0 +1,92 @@
+commit d2e6c696d6673e320ffde022d1815b508cdfd8b2
+Merge: 42fb936 2989641
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 22:30:04 2022 -0500
+
+    resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 42fb936de0d8471df9ae2eef30174390f50253df
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 22:09:03 2022 -0500
+
+    agregando estaciones del año con fecha de inicio
+
+commit 298964126011f7361e5e0ec3c94b1f64239c4521
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 22:09:03 2022 -0500
+
+    agregando estaciones del año
+
+commit 0e30d35aad3d7b77b17a75b9ff61bef981ccb0bb
+Merge: 50b922c c5d4e1a
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 19:41:28 2022 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit c5d4e1afc5f8fdcf8576a3ddc20f967a03f8bcba
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 19:26:55 2022 -0500
+
+    agregando index.js al index.html
+
+commit 50b922cb336804f63b43452267a90415e69cb191
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 19:23:47 2022 -0500
+
+    agregando style.css al index.html
+
+commit 1a4790fda3efacebc9397a10b83386a9de55eb02
+Merge: 6b1cd5e 90ddf05
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 19:02:54 2022 -0500
+
+    Merge branch 'js'
+
+commit 90ddf05c156a435226701eaff94fa55b16d15cc0
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 18:22:34 2022 -0500
+
+    creando archivo js
+
+commit 6b1cd5ea59c3d0f826b3e8e1641e5bf8df6530ad
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 18:15:56 2022 -0500
+
+    creando style.css
+
+commit cfaf43c8e4f57450f268b50375023e0c22c8b184
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 18:09:52 2022 -0500
+
+    creando archivo index.html
+
+commit 8a105062130f4f0a6bfb1be27c3cf3df52086c0f
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 16:12:48 2022 -0500
+
+    ignorando archivos .exe
+
+commit 2ff928d68b9f26a5bdfaba8e15b8c3127508f45f
+Author: moyosxtouch <98291570+moyosxtouch@users.noreply.github.com>
+Date:   Wed Aug 10 15:23:21 2022 -0500
+
+    creando licencia del repositorio
+
+commit ad6f832e85b571c09d48a816a534ee8996c496dd
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 15:10:55 2022 -0500
+
+    upload more content
+
+commit c5125655753b06ff7adce8ec852886101544cfb1
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 14:52:11 2022 -0500
+
+    La reconcha de la lora
+
+commit 99721b60fccee879ae0c38d6ed95324380415c1b
+Author: Victor Moyosky <moyosxtouch@gmail.com>
+Date:   Wed Aug 10 13:55:36 2022 -0500
+
+    primer mensaje
